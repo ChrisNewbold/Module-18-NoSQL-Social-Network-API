@@ -54,11 +54,11 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 Please find GIF of walk through below
 
-![working example gif](./assets/images/tech-blog.gif)
+![working example gif](./Assets/Module-18-NoSQL-Social-Network-API.gif)
 
 Please find MP4 of walk through below
 
-[click here for mp4](https://drive.google.com/file/d/1Bfpa0arNadwQRavQyNbKqgypKgrS3cRl/view)
+[click here for mp4](https://drive.google.com/file/d/1KA5Wj4F7cwlW_VYTYLd45rqNyXwcyxiX/view)
 
 ## Installation
 
@@ -71,7 +71,7 @@ npm i
 To run this application please use the command line:
 
 1. Open the repository in your terminal or bash.
-2. Start the server by entering `npm run start`.
+2. Start the server by entering `npm run dev`.
 3. Test the API routes using Insomnia.
 
 ## Skills Used
