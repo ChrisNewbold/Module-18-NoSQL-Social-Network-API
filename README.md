@@ -52,13 +52,18 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Mock-Up
 
+Please find MP4 of walk through below
+
+[click here for mp4](https://drive.google.com/file/d/1KA5Wj4F7cwlW_VYTYLd45rqNyXwcyxiX/view)
+
 Please find GIF of walk through below
 
 ![working example gif](./Assets/Module-18-NoSQL-Social-Network-API.gif)
 
-Please find MP4 of walk through below
+Please find jpg of walk through screen grabs below
 
-[click here for mp4](https://drive.google.com/file/d/1KA5Wj4F7cwlW_VYTYLd45rqNyXwcyxiX/view)
+![working example jpg](./Assets/add-user-insomnia.png)
+![working example jpg](./Assets/all-users-insomnia.png)
 
 ## Installation
 
